@@ -1,0 +1,7 @@
+{
+  "name": "Warung App",
+  "description": "A Progressive Web App (PWA) designed to modernize traditional convenience stores (warung sembako) in Indonesia. The app provides a complete point-of-sale and inventory management solution that works seamlessly both online and offline.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

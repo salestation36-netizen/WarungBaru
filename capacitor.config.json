@@ -1,0 +1,13 @@
+{
+  "appId": "com.warungpintarku.app",
+  "appName": "Warung PintarKu",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
